@@ -7,5 +7,5 @@ Deployment: [The MET](https://natalia646.github.io/the_met/)
 **A landing page that provides information about the museum, exhibitions, visiting hours and contact details.**
 
 ### Core Stack
-- **HTML**: For marckap... .
-- **SCSS**: For adding styles.
+- **HTML**: For markup and structuring the content.
+- **SCSS**: For adding styles and enhancing design flexibility.
